@@ -1,8 +1,8 @@
-.title {
+.title{
   color: #FF0066;
 }
 
-li {
+li{
   list-style: none;
 }
 
@@ -20,18 +20,18 @@ li {
   font-weight: bold;
 }
 
-.header-list {
+.header-list{
   float: left;
 
 }
 
-.header-list li {
+.header-list li{
   float: left;
   padding: 20px 45px;
   font-size: 20px;
   font-weight: bold;
 }
 
-.main {
+.main{
   padding: 40px 80px;
 }
