@@ -17,19 +17,19 @@ li {
   float: left;
   font-size: 36px;
   color: #FF0066;
-  font-family: serif;
+  font-weight: bold;
 }
 
 .header-list {
   float: left;
+
 }
 
 .header-list li {
   float: left;
   padding: 20px 45px;
-  color: #FF0066;
   font-size: 20px;
-  font-family: sans-serif;
+  font-weight: bold;
 }
 
 .main {
