@@ -1,14 +1,14 @@
-.title{
+.title {
   color: #FF0066;
 }
 
-li{
+li {
   list-style: none;
 }
 
 .header{
   background: #F8F8FF;
-  padding: 20px 40px;
+  padding: 0 40px;
   height: 60px;
   border-bottom: 2px solid #dee7ec;
 }
@@ -20,18 +20,28 @@ li{
   font-weight: bold;
 }
 
-.header-list{
+.header-list {
   float: left;
 
 }
 
-.header-list li{
+.header-list li {
   float: left;
-  padding: 20px 45px;
+  padding-top: 20px;
+  padding-left: 60px;
   font-size: 20px;
   font-weight: bold;
 }
 
-.main{
+.top-wrapper {
+  padding: 250px 0 100px 0;
+  background-image: url(logo-top.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  text-align: center;
+}
+
+.main-wrapper {
   padding: 40px 80px;
 }
